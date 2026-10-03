@@ -1,0 +1,13 @@
+# Archivos compilados de Java
+*.class
+
+# Directorio de construcción de Maven
+target/
+
+# Archivos de IDEs (Eclipse, IntelliJ, VS Code)
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
